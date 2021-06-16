@@ -1,10 +1,10 @@
 # project-management
 Project management docs from "Project Management for the Unofficial Project Management" Kogon, Blakemore, and Wood
 
-How to use these documents:
+*How to use these documents:*  
 These documents are intended to be used sequentially throughout a project's lifecycle to ensure that a project continues on track and will be completed in the allotted time. These tools make defining scope, ownership, and communication clear and as objective as possible. Special emphasis is given to agreement and sign off. Tools are also available to ensure that risk is managed appropriately- First by preemptively identifying risks and devising mitigation plans, but through communication and transparency.
 
-What are these documents?
+*What are these documents?*
 
 1. Key stakeholder interview: Interview structure to guide project definitions from people who determine the success or failure of a project.
 
